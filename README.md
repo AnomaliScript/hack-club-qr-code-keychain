@@ -14,6 +14,9 @@ Also, if you're new to 3D printing, look for tutorials online or maybe even join
 ## Usage
 It's a keychain; put it somewhere where anyone can see!
 Your school's bulletin board (with permission), locker, bracelet (depends on size), or even as one of those things that you hang on your rear view mirror!
+![Screenshot 2024-09-04 204008](https://github.com/user-attachments/assets/ffb2d15a-802d-4ba6-9ff6-df41fecbde02)
+Sketchfab rendering:
+https://skfb.ly/pqzoQ
 
 ## Features
 It has a hole for the rope of chain or whatever you use to keep the keychain connected.
